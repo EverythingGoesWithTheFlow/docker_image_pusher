@@ -13,3 +13,4 @@ apache/skywalking-oap-server:8.9.1
 canal/canal-server:v1.1.6
 minio/minio:latest
 xhofe/alist-aria2:latest
+chat2db/chat2db:3.2.4
