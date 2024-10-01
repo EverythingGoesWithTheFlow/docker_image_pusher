@@ -6,3 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 dbgate/dbgate:5.5.3
+elasticsearch:7.14.0
