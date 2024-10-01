@@ -11,3 +11,4 @@ rabbitmq:3.8.2-management
 apache/skywalking-ui:8.9.1
 apache/skywalking-oap-server:8.9.1
 canal/canal-server:v1.1.6
+minio/minio:latest
