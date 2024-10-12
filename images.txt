@@ -14,3 +14,4 @@ canal/canal-server:v1.1.6
 minio/minio:latest
 xhofe/alist-aria2:latest
 chat2db/chat2db:3.2.4
+jpomdocker/jpom:2.11.9
