@@ -15,3 +15,4 @@ minio/minio:latest
 xhofe/alist-aria2:latest
 chat2db/chat2db:3.2.4
 jpomdocker/jpom:2.11.9
+mysql:5.7.36
