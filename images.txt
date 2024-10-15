@@ -18,3 +18,4 @@ jpomdocker/jpom:2.11.9
 mysql:5.7.36
 redis:6.2
 minio/minio:RELEASE.2024-04-18T19-09-19Z
+nginx:1.27.2
