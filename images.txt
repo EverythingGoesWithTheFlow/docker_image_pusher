@@ -5,17 +5,17 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-dbgate/dbgate:5.5.3
-elasticsearch:7.14.0
-rabbitmq:3.8.2-management
-apache/skywalking-ui:8.9.1
-apache/skywalking-oap-server:8.9.1
-canal/canal-server:v1.1.6
-minio/minio:latest
-xhofe/alist-aria2:latest
-chat2db/chat2db:3.2.4
-jpomdocker/jpom:2.11.9
-mysql:5.7.36
-redis:6.2
-minio/minio:RELEASE.2024-04-18T19-09-19Z
+#dbgate/dbgate:5.5.3
+#elasticsearch:7.14.0
+#rabbitmq:3.8.2-management
+#apache/skywalking-ui:8.9.1
+#apache/skywalking-oap-server:8.9.1
+#canal/canal-server:v1.1.6
+#minio/minio:latest
+#xhofe/alist-aria2:latest
+#chat2db/chat2db:3.2.4
+#jpomdocker/jpom:2.11.9
+#mysql:5.7.36
+#redis:6.2
+#minio/minio:RELEASE.2024-04-18T19-09-19Z
 nginx:1.27.2
