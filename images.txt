@@ -20,4 +20,5 @@
 #minio/minio:RELEASE.2024-04-18T19-09-19Z
 #nginx:1.27.2
 #nacos/nacos-server:v2.4.3
-zlmediakit/zlmediakit:master
+#zlmediakit/zlmediakit:master
+mysql:8.4.3
