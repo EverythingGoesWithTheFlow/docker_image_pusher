@@ -24,4 +24,8 @@
 #mysql:8.4.3
 #loongarch64/debian:sid
 #loongarch64/debian
-openjdk:8
+#openjdk:8
+jitsi/web:unstable
+jitsi/prosody:unstable
+jitsi/jicofo:unstable
+jitsi/jvb:unstable
