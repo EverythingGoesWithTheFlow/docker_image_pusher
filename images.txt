@@ -29,7 +29,7 @@
 #jitsi/prosody:unstable
 #jitsi/jicofo:unstable
 #jitsi/jvb:unstable
-jitsi/jicofo:stable-9955
-jitsi/prosody:stable-9955
-jitsi/jvb:stable-9955
-jitsi/web:stable-9955
+--platform=linux/x86_64 jitsi/jicofo:stable-9955
+--platform=linux/x86_64 jitsi/prosody:stable-9955
+--platform=linux/x86_64 jitsi/jvb:stable-9955
+--platform=linux/x86_64 jitsi/web:stable-9955
