@@ -37,4 +37,4 @@
 #grafana/promtail:2.9.2
 #grafana/grafana:latest
 #jitsi/jigasi:stable-9955
-freeswitch/freeswitch
+gitlab/gitlab-ce:latest
