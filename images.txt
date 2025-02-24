@@ -38,4 +38,5 @@
 #grafana/grafana:latest
 #jitsi/jigasi:stable-9955
 #gitlab/gitlab-ee:latest
-maven:3-alpine
+#maven:3-alpine
+guacamole/guacd
