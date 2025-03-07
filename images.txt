@@ -40,4 +40,5 @@
 #gitlab/gitlab-ee:latest
 #maven:3-alpine
 #guacamole/guacd
-safarov/freeswitch
+#safarov/freeswitch
+freeswitch/freeswitch:1.10.10
