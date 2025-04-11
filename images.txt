@@ -42,4 +42,4 @@
 #guacamole/guacd
 #safarov/freeswitch
 #freeswitch/freeswitch:1.10.10
---platform=linux/arm64 nginx:1.27.2
+--platform=linux/arm64 nginx:1.27.1
