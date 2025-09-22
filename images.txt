@@ -43,4 +43,5 @@
 #safarov/freeswitch
 #freeswitch/freeswitch:1.10.10
 #--platform=linux/arm64 nginx:1.27.1
-keking/kkfileview:4.4.0
+#keking/kkfileview:4.4.0
+--platform=linux/arm64 mysql:8.4.3
