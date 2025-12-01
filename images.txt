@@ -46,4 +46,5 @@
 #keking/kkfileview:4.4.0
 #--platform=linux/arm64 mysql:8.4.3
 #--platform=linux/arm64 livekit/ingress:v1.4.3
---platform=linux/arm64 redis:6.2
+#--platform=linux/arm64 redis:6.2
+keking/kkfileview:4.4.0
