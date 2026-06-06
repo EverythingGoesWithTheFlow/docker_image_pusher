@@ -53,4 +53,5 @@
 #--platform=linux/amd64 minio/minio:RELEASE.2025-04-22T22-12-26Z
 #--platform=linux/amd64 xuxueli/xxl-job-admin:2.4.0
 #--platform=linux/amd64 bladex/sentinel-dashboard:1.8.6
---platform=linux/amd64 nginx:1.30
+#--platform=linux/amd64 nginx:1.30
+--platform=linux/amd64 mysql:8.0.36
