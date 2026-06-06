@@ -54,4 +54,5 @@
 #--platform=linux/amd64 xuxueli/xxl-job-admin:2.4.0
 #--platform=linux/amd64 bladex/sentinel-dashboard:1.8.6
 #--platform=linux/amd64 nginx:1.30
---platform=linux/amd64 mysql:8.0.36
+#--platform=linux/amd64 mysql:8.0.36
+--platform=linux/amd64 bellsoft/liberica-openjdk-rocky:17.0.16-cds
