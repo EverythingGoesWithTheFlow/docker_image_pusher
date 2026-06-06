@@ -47,4 +47,9 @@
 #--platform=linux/arm64 mysql:8.4.3
 #--platform=linux/arm64 livekit/ingress:v1.4.3
 #--platform=linux/arm64 redis:6.2
-keking/kkfileview:4.1.0
+#keking/kkfileview:4.1.0
+--platform=linux/amd64 redis:7.2-alpine
+--platform=linux/amd64 rabbitmq:3.13-management
+--platform=linux/amd64 minio/minio:RELEASE.2025-04-22T22-12-26Z
+--platform=linux/amd64 xuxueli/xxl-job-admin:2.4.0
+--platform=linux/amd64 bladex/sentinel-dashboard:1.8.6
