@@ -56,5 +56,6 @@
 #--platform=linux/amd64 nginx:1.30
 #--platform=linux/amd64 mysql:8.0.36
 #--platform=linux/amd64 bellsoft/liberica-openjdk-rocky:17.0.16-cds
-#--platform=linux/amd64 pgsty/minio:RELEASE.2026-02-14T12-00-00Z
+#--platform=linux/amd64 pgsty/#minio:RELEASE.2026-02-14T12-00-00Z
 --platform=linux/amd64 tomcat:9.0.118-jdk8
+nginx:1.30.4
